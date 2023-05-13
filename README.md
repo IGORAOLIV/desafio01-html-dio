@@ -4,9 +4,9 @@ Este é o Desafio de Projeto proposto pela DIO (Digital Innovation One) no curso
 
 ## Descrição do Projeto
 
-O projeto consiste em elaborar um website sobre o tema "Gatos". O website deve utilizar todas as tags apresentadas durante as aulas, como `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`. Além disso, são sugeridas algumas tags adicionais, como `<font>`, `<del>`, `<p>`, `<abbr>`, que devem ser pesquisadas na internet para entender seu funcionamento e utilizá-las no texto.
+O projeto consiste em elaborar um website com tema livre. O website deve utilizar todas as tags apresentadas durante as aulas, como `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`. Além disso, são sugeridas algumas tags adicionais, como `<font>`, `<del>`, `<p>`, `<abbr>`, que devem ser pesquisadas na internet para entender seu funcionamento e utilizá-las no texto.
 
-## Sobre o Tema: Gatos
+## Sobre o Tema Escolhido: Gatos
 
 Os gatos são animais de estimação populares em todo o mundo. Conhecidos por sua elegância, independência e personalidade única, os gatos têm sido companheiros humanos há milhares de anos. Este tema escolhido para o website permite explorar diferentes aspectos relacionados aos gatos, como raças, cuidados, vantagens de tê-los como animais de estimação e principais doenças que podem afetá-los.
 
@@ -14,11 +14,10 @@ Os gatos são animais de estimação populares em todo o mundo. Conhecidos por s
 
 Neste desafio, fui responsável por criar o website sobre gatos. Utilizei as tags HTML apresentadas durante as aulas para estruturar o conteúdo, como títulos (`<h1>` a `<h6>`), parágrafos (`<p>`), listas (`<ol>`, `<ul>`, `<li>`), links (`<a>`), estilização de texto (`<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`) e outras tags sugeridas.
 
-Além disso, pesquisei e utilizei as tags adicionais `<font>`, `<del>`, `<p>`, `<abbr>`, compreendendo sua função e aplicando-as de forma adequada no texto do website.
 
 Também adicionei espaço para imagens relacionadas em cada seção do website, usando a tag `<img>` e especificando o caminho das imagens.
 
-Para melhorar a navegação, incluí links de volta ao índice em cada página de seção, permitindo ao usuário retornar facilmente à página inicial.
+Para melhorar a navegação, incluí links de volta ao índice em cada página de seção, permitindo ao usuário retornar facilmente à página inicial. Também pesquisei CSS para melhorar alguns elementos visuais do site. 
 
 ## Considerações Finais
 
